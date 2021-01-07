@@ -1,0 +1,1 @@
+# selfIsolation_TR_text_gen
